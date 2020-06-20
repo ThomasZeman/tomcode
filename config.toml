@@ -3,7 +3,7 @@ defaultContentLanguage = "en"
 languageCode = "en"
 title = "tomcode.net"
 
-theme = "LoveIt"
+theme = "loveit"
 
 [params]
   version = "0.2.X"
