@@ -8,6 +8,9 @@ theme = "loveit"
 [params]
   version = "0.2.X"
 
+[params.social]
+  Mastodon = "@xxxx"
+
 [menu]
   [[menu.main]]
     identifier = "posts"
