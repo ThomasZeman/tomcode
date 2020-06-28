@@ -23,11 +23,11 @@ theme = "loveit"
     title = ""
     weight = 1
   [[menu.main]]
-    identifier = "categories"
+    identifier = "wiki"
     pre = ""
     post = ""
-    name = "Categories"
-    url = "/categories/"
+    name = "Wiki"
+    url = "/wiki/"
     title = ""
     weight = 2
 
