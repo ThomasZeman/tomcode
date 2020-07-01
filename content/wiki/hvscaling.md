@@ -1,14 +1,14 @@
 ---
 title: "Horizontal and Vertical Scaling"
-date: 2020-06-20T19:42:11+10:00
-draft: true
+date: 2020-01-01
+draft: false
 author: Tom
 lightgallery: true
 ---
-Horizontal Scaling:
+### Horizontal Scaling
 
-More machines
+Add more machines
 
-Vertical Scaling:
+### Vertical Scaling
 
-More RAM, faster CPUs for one machine
+Scale by e.g., adding more RAM, faster CPUs, etc. to one machine
