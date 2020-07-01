@@ -1,5 +1,5 @@
 ---
-title: "Horizontal and Vertical Scaling"
+title: "Patterns and Pattern Languages"
 date: 2020-01-01
 draft: false
 author: Tom
